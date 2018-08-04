@@ -1,0 +1,7 @@
+The project's source code itself does not bundle any third party libraries, but it
+depends on a number of libraries which carry their own copyright notices and
+license terms. 
+
+* IMAPClient - https://github.com/mjs/imapclient/blob/master/COPYING
+
+* requests - https://github.com/requests/requests/blob/master/LICENSE
